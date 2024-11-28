@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "mSBKAyXPdFyINKpoj0cdyCzQtopKGlD8frhco+mBCg8=",
+  "Source": "OutRunner.API",
+  "BasePath": "_content/OutRunner.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
