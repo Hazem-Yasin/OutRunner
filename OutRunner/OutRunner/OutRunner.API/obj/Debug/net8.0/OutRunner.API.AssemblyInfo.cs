@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OutRunner.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba65311e00e859ef3c8b7c94ec506ee21bf81f1c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7043fbe1818722fb7b051809581b4bb2db81b723")]
 [assembly: System.Reflection.AssemblyProductAttribute("OutRunner.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OutRunner.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

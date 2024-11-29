@@ -17,9 +17,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+//using authorization but we didn't add authorization
 app.UseAuthorization();
-
+//adding a map for controllers
 app.MapControllers();
-
+//this one runs the app
 app.Run();
