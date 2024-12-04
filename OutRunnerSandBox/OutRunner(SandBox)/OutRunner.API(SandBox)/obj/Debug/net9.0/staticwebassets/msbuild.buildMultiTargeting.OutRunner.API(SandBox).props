@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OutRunner.API(SandBox).props" />
+</Project>
