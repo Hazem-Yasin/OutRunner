@@ -12,9 +12,10 @@ namespace OutRunner.API.Controllers
         [HttpGet]
         public IActionResult GetAllStudents()
         {
-            string[] studentNames = new string[] { "John", "Jane", "Mark", "Emily", "David"};
+            string[] studentNames = new string[] { "John", "Jane", "ds;lajlkdasj;lkd", "Emily", "David"};
+            string[] TeacherNames = new string[] { "Dr.Hazem", "Mr.jaslkd", "Prof.asdlksaj" };
 
-            return Ok(studentNames);
+            return Ok();
         }
 
     }
