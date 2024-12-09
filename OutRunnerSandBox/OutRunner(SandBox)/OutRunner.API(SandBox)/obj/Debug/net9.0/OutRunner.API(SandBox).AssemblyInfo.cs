@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OutRunner.API(SandBox)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be0c94ad63853a067f7558d83101fac84019412f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7fe11d6c6c4f88a9627ef03430f3ed73d7827948")]
 [assembly: System.Reflection.AssemblyProductAttribute("OutRunner.API(SandBox)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OutRunner.API(SandBox)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
